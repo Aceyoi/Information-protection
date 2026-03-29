@@ -13,3 +13,4 @@ https://1drv.ms/p/c/8e7ee27aa1a39489/IQAOz1wioow4QpyXSsYytpzcAaP0QrVBPNrnth5Ksie
 # Тема 5. CTF
 https://1drv.ms/w/c/8e7ee27aa1a39489/IQBjagxc8HVyRKhGLjUcV6UyARRMF8zTyGwlSum97VCDDGs?e=JxSF9V
 # Тема 6. Компьютерные вирусы и иные вредоносные программы
+https://1drv.ms/w/c/8e7ee27aa1a39489/IQAP-Eki0XDgQZRQ6LSrZOVJASu1cgHBui5PGiPMJ2zebLo?e=uPYbZd
