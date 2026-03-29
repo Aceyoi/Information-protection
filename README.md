@@ -6,3 +6,5 @@ https://onlinetestpad.com/doqkwiimuerz6
 https://1drv.ms/w/c/8e7ee27aa1a39489/IQAR96dyfZdJSptAw8B8UqdVAXoiwOkdjMJ2ayAd2yVzWXI?e=JFgnya
 # Тема 2. Кибергигиена
 https://1drv.ms/p/c/8e7ee27aa1a39489/IQAOz1wioow4QpyXSsYytpzcAaP0QrVBPNrnth5KsiefSGA?e=2mLUvd
+# Тема 5. CTF
+https://1drv.ms/w/c/8e7ee27aa1a39489/IQBjagxc8HVyRKhGLjUcV6UyARRMF8zTyGwlSum97VCDDGs?e=JxSF9V
