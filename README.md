@@ -7,7 +7,7 @@ https://1drv.ms/w/c/8e7ee27aa1a39489/IQAR96dyfZdJSptAw8B8UqdVAXoiwOkdjMJ2ayAd2yV
 # Тема 2. Кибергигиена
 https://1drv.ms/p/c/8e7ee27aa1a39489/IQAOz1wioow4QpyXSsYytpzcAaP0QrVBPNrnth5KsiefSGA?e=2mLUvd
 # Тема 3. Исследование дампа оперативной памяти
-
+https://1drv.ms/w/c/8e7ee27aa1a39489/IQDzQ0zghH0qTqMYXtYOS6Q6Af2AcK6yCTvtEQbfGuzF3sw?e=3leuVx
 # Тема 4. Изучаем Bitlocker
 https://1drv.ms/w/c/8e7ee27aa1a39489/IQBwCVlcqi6WTIlHL4uQNZzYAQOP1PTkk1ejCHzx9dyl2zI?e=Xqo2aP
 # Тема 5. CTF
